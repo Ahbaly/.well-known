@@ -1,0 +1,10 @@
+[
+    {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : {
+        "namespace": "android_app",
+        "package_name": "com.leilinook.app",
+        "sha256_cert_fingerprints": ["69:6E:B7:81:20:17:39:28:A5:1D:A3:4D:38:AC:B1:8D:FD:5B:81:FA:48:23:6A:ED:69:01:F1:D9:DD:0C:92:90"]
+    }
+  }
+]
